@@ -11,7 +11,6 @@ assignees: stephenpring, jprb-walton, jmulcahy11, matthew-mizielinski
 Please fill out the following details:
 
 - **Full Name**: <!-- Your full name -->
-- **Email Address**: <!-- Your email address -->
 - **Institution / Affiliation**: <!-- Your institution or affiliation -->
 - **GitHub Username**: <!-- Your GitHub username -->
 
