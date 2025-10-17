@@ -3,7 +3,7 @@ name: Access Request
 about: Request access to private repositories
 title: "[Access Request] <!-- Your Name Here -->"
 labels: [access-request]
-assignees: stephenpring, jprb-walton
+assignees: stephenpring, jprb-walton, jmulcahy11
 ---
 
 ## Requesting Access
