@@ -39,7 +39,7 @@ body:
         - CDDS-simulation-metadata
         - CDDS-CMIP7-processing
   
-        If you would like general access to all repositories, please indicate that below.
+        If you would like general access to all repositories, please indicate that below and why.
         Otherwise, please specify which repositories you would like access to and why access is required.
       placeholder: "e.g. I need access to XYZ repository to contribute documentation and share simulation results"
     validations:
