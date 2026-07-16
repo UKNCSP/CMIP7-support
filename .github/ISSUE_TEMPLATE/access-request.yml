@@ -32,6 +32,9 @@ body:
     attributes:
       label: "Purpose of access request"
       description: |
+      
+        Please explain why access is required and include details of your role and project involvement.
+
         Access to the following private repositories is available:
   
         - CMIP7-documentation
@@ -39,8 +42,7 @@ body:
         - CDDS-simulation-metadata
         - CDDS-CMIP7-processing
 
-        Please specify which repositories you would like access to and explain why access is required for your role or project.
-        If you would like general access to all repositories, please indicate that.
-      placeholder: "Project, role, repositories required, and justification"
+        Please specify which repositories you would like access to, if you would like general access to all repositories, please indicate that.
+        placeholder: "Project, role, repositories required, and justification"
     validations:
       required: true
